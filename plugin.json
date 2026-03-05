@@ -1,0 +1,20 @@
+{
+  "name": "nkit",
+  "version": "0.1.0",
+  "description": "Development knowledge kit - curated development guides for Claude Code",
+  "author": "newbission",
+  "license": "Apache-2.0",
+  "repository": "",
+  "skills": [
+    "skills/phase-1-schema",
+    "skills/phase-2-convention",
+    "skills/phase-3-mockup",
+    "skills/phase-4-api",
+    "skills/phase-5-design-system",
+    "skills/phase-6-ui-integration",
+    "skills/phase-7-seo-security",
+    "skills/phase-8-review",
+    "skills/code-review",
+    "skills/mobile-app"
+  ]
+}

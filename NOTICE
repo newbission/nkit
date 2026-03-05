@@ -1,0 +1,22 @@
+nkit - Development Knowledge Kit
+Copyright 2026 newbission
+
+This product includes portions derived from bkit (Vibecoding Kit),
+originally developed by POPUP STUDIO PTE. LTD. (https://popupstudio.ai)
+and licensed under the Apache License, Version 2.0.
+
+Original software:
+  bkit - Vibecoding Kit
+  Copyright 2024-2026 POPUP STUDIO PTE. LTD.
+  https://github.com/anthropics/claude-code  (plugin marketplace)
+
+Modifications made:
+  - Selected subset of skills and templates
+  - Removed bkit PDCA system dependencies
+  - Removed bkend.ai BaaS platform references
+  - Removed hooks, scripts, and library modules
+  - Restructured as standalone Claude Code plugin
+
+This software uses Claude Code by Anthropic, PBC.
+Claude Code is subject to Anthropic's terms of service.
+https://www.anthropic.com/terms
