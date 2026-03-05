@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nkit",
+  "description": "Development knowledge kit - curated development guides and phased workflows for Claude Code",
+  "owner": {
+    "name": "newbission",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "nkit",
+      "description": "Development knowledge kit with 8-phase pipeline (Schema → Convention → Mockup → API → Design System → UI Integration → SEO/Security → Review), code review, and mobile app development guides",
+      "version": "0.1.0",
+      "author": {
+        "name": "newbission"
+      },
+      "source": "./plugins/nkit",
+      "category": "development",
+      "homepage": "https://github.com/newbission/nkit"
+    }
+  ]
+}
