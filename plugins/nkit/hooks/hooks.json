@@ -1,12 +1,15 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-hooks.json",
   "description": "nkit report style hook that adds activity report instructions",
   "hooks": {
     "SessionStart": [
       {
+        "once": true,
         "hooks": [
           {
             "type": "command",
-            "command": "${CLAUDE_PLUGIN_ROOT}/hooks-handlers/session-start.sh"
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks-handlers/session-start.sh",
+            "timeout": 5000
           }
         ]
       }

@@ -10,7 +10,7 @@
     {
       "name": "nkit",
       "description": "Development knowledge kit with 8-phase pipeline (Schema → Convention → Mockup → API → Design System → UI Integration → SEO/Security → Review), code review, and mobile app development guides",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": {
         "name": "newbission"
       },
